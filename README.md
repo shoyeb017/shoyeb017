@@ -9,7 +9,7 @@ CSE Undergraduate at MIST | Full-Stack Developer | Mobile App Developer | Graphi
 
 <!-- GitHub Profile Trophy -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shoyeb017&theme=flat&row=2&column=4&margin-w=15&margin-h=15&v=1" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=shoyeb017&theme=flat&no-frame=true&column=5&margin-w=10&v=2" />
 </p>
 
 ---
@@ -58,14 +58,9 @@ CSE Undergraduate at MIST | Full-Stack Developer | Mobile App Developer | Graphi
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shoyeb017&show_icons=true&locale=en&layout=compact" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shoyeb017&layout=compact)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shoyeb017&show_icons=true&locale=en" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shoyeb017&show_icons=true)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shoyeb017" />
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shoyeb017)
+
