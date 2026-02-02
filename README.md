@@ -26,9 +26,9 @@ CSE Undergraduate at MIST | Full-Stack Developer | Mobile App Developer | Graphi
 <a href="https://www.linkedin.com/in/mozahidul-haque-shoyeb-76680723a/" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
-<a href="https://www.codechef.com/users/shoyeb1" target="_blank">
+<!-- <a href="https://www.codechef.com/users/shoyeb1" target="_blank">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="30" width="40" />
-</a>
+</a> -->
 <a href="https://codeforces.com/profile/shoyeb1" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="30" width="40" />
 </a>
