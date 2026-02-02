@@ -8,12 +8,13 @@ CSE Undergraduate at MIST | Full-Stack Developer | Mobile App Developer | Graphi
   <img src="https://komarev.com/ghpvc/?username=shoyeb017&label=Profile%20views&color=0e75b6&style=flat" alt="shoyeb017" />
 </p>
 
+<!-- 
 ---
 
 <p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=shoyeb017&theme=flat&no-frame=true&column=5&margin-w=10&v=2" />
 </p>
-
+-->
 ---
 
 ### 👨‍💻 About Me
