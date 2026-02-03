@@ -18,7 +18,7 @@ CSE Undergraduate at MIST | Full-Stack Developer | Mobile App Developer | Graphi
 ---
 
 ### 👨‍💻 About Me
-- 👨‍💻 All of my projects are available at **[mozahidul-haque-shoyeb.vercel.app](mozahidul-haque-shoyeb.vercel.app)**
+- 🌐 All of my projects are available at **[mozahidul-haque-shoyeb.vercel.app](https://mozahidul-haque-shoyeb.vercel.app)**
 - 💬 Ask me about **React, Next.js, Flutter, Python, Supabase, Arduino, UI/UX**
 - 📫 Reach me at **shoyebhaque017@gmail.com**
 
@@ -26,6 +26,9 @@ CSE Undergraduate at MIST | Full-Stack Developer | Mobile App Developer | Graphi
 
 ### 🤝 Connect with Me
 <p align="left">
+  <a href="https://mozahidul-haque-shoyeb.vercel.app" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/domain.png" height="30" width="30" />
+  </a>
   <a href="https://www.linkedin.com/in/mozahidul-haque-shoyeb-76680723a/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   </a>
