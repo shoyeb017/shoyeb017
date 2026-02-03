@@ -18,7 +18,7 @@ CSE Undergraduate at MIST | Full-Stack Developer | Mobile App Developer | Graphi
 ---
 
 ### 👨‍💻 About Me
-- 👨‍💻 All of my projects are available at **[www.shoyeb.com](https://www.shoyeb.com)**
+- 👨‍💻 All of my projects are available at **[mozahidul-haque-shoyeb.vercel.app]([mozahidul-haque-shoyeb.vercel.app])**
 - 💬 Ask me about **React, Next.js, Flutter, Python, Supabase, Arduino, UI/UX**
 - 📫 Reach me at **shoyebhaque017@gmail.com**
 
